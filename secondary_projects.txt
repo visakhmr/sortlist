@@ -7,7 +7,7 @@
 9:OSB:Anh Nguyen
 10:BRIAN:Satvik Singh
 17:Pydra:Yash
-19:NBDT:Alan
+19:NBDT:Alan/Amogh
 20:LORIS:Pranav
 21:OrthogonalLab:Brian
 22:Devoworm:Jiatang 

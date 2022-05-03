@@ -1,32 +1,18 @@
 1:Disimpy:Joel Hurtado Moreno
 4:GeNN:William Snider
 5:Analysim:Akeelah Lindo
-5:AnalySim:Joseph Ongchangco
 6:Eye-tracker:Abhinav Venkatadri
-6:Eye-tracker:Somath Sharma
-6:Eye-tracker:Prakanshul Saxena
-6:Eye-tracker:Selim
 7:CAMH EEG:Peter Crowe
 8:TVB:Pranav
 9:OSB:Anh Nguyen
-9:OSB:Anuja Negi
-9:OSB:Rahul Sonkar
 10:BRIAN:Satvik Singh
 17:Pydra:Yash
-17:Pydra:Ryan
-19:NBDT:Naresh
 19:NBDT:Alan
-19:NBDT:Mrunal
-19:NBDT:Varsita
 20:LORIS:Pranav
-20:LORIS:Sharvani
 21:OrthogonalLab:Brian
-21:OrthogonalLab:Syed Hussain
 22:Devoworm:Jiatang 
-22:Devoworm:Wataru 
-22:Devoworm:Harukrishna
 23:GlobalBrainCouncil:Nada Ahmed Elmasry
-23:GlobalBrainCouncil:Austin Pereira
+
 
 
 

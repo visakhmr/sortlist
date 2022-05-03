@@ -1,5 +1,16 @@
-team2
-team1
-team3
-team4
-team5
+1:Disimpy
+2:BIDS Computational modelling
+4:GeNN
+5:AnalySim
+6:Eye-tracking 
+7:CAMH EEG
+8:TVB
+9:OpenSourceBrain
+10:BRIAN
+13:Neuroptimus
+17:Pydra
+19:NBDT journal
+20:LORIS
+21:Orthogonal Lab
+22:Devoworm
+23:GlobalBrainCouncil

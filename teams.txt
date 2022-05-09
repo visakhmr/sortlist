@@ -1,17 +1,17 @@
-1:Disimpy:Renata
-2:BIDS Computational modelling:Dinara Issagaliyeva
-4:GeNN:Neelay Shah 
-5:AnalySim:Ryan Gambrell
-6:Eye-tracking:Wizofe
-7:CAMH EEG:Parv Agrawal
-8:TVB:Akash 
-9:OpenSourceBrain:Shayan Shafquat
-10:BRIAN:Rohit
-12:HNN-core:Huzi
-13:Neuroptimus:Martin
-17:Pydra:Yibei
-19:NBDT journal:Amogh/Alan
-20:LORIS:Satvik Singh
-21:Orthogonal Lab:Himanshu
-22:Devoworm:Karan
-23:GlobalBrainCouncil:Garett Flynn
+1:Disimpy:Renata (Large)
+2:BIDS Computational modelling:Dinara Issagaliyeva (Large)
+4:GeNN:Neelay Shah (Medium)
+5:AnalySim:Ryan Gambrell (Medium)
+6:Eye-tracking:Wizofe (Large)
+7:CAMH EEG:Parv Agrawal (Large)
+8:TVB:Akash (Medium)
+9:OpenSourceBrain:Shayan Shafquat (Medium)
+10:BRIAN:Rohit (Medium)
+12:HNN-core:Huzi (Large)
+13:Neuroptimus:Martin (Large)
+17:Pydra:Yibei (Large)
+19:NBDT journal:Amogh/Alan (Medium/Large)
+20:LORIS:Satvik Singh (Large)
+21:Orthogonal Lab:Himanshu (Large)
+22:Devoworm:Karan (Medium)
+23:GlobalBrainCouncil:Garett Flynn (Large)

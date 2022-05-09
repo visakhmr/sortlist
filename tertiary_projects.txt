@@ -1,14 +1,21 @@
-5:AnalySim:Joseph Ongchangco
-6:Eye-tracker:Somath Sharma
-6:Eye-tracker:Prakanshul Saxena
-6:Eye-tracker:Selim
-9:OSB:Anuja Negi
-9:OSB:Rahul Sonkar
-17:Pydra:Ryan
-19:NBDT:Naresh
-20:LORIS:Sharvani
+1:Disimpy: Joel Hurtado Mureno (Large)
+5:Analysim:Akeelah Lindo (Large)
+5:AnalySim:Joseph Ongchangco (Large)
+6:Eye-tracker:Abhinav Venkatadri (Large)
+6:Eye-tracker:Somath Sharma (Large)
+6:Eye-tracker:Prakanshul Saxena (Large)
+6:Eye-tracker:Selim (Large)
+7:CAMH EEG:Peter Crowe (Large)
+9:OSB:Anuja Negi (Medium)
+9:OSB:Rahul Sonkar (Medium)
+17:Pydra:Ryan (Medium)
+19:NBDT:Naresh (Medium)
+19:NBDT:Mrunal (Large)
+19:NBDT:Varsita (Large)
+20:LORIS:Sharvani (Medium)
+21:OrthogonalLab:Brian (Large)
 21:OrthogonalLab:Syed Hussain
-22:Devoworm:Wataru
-22:Devoworm:Harukrishna
-23:GlobalBrainCouncil:Austin Pereira
-
+22:Devoworm:Wataru (Medium)
+22:Devoworm:Harikrishna Pillai (Medium)
+23:GlobalBrainCouncil:Austin Pereira (Large)
+23:GlobalBrainCouncil:Nada Ahmed Elmasry (Large)

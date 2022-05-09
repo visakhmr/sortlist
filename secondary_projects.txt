@@ -1,18 +1,8 @@
-1:Disimpy:Joel Hurtado Moreno
-4:GeNN:William Snider
-5:Analysim:Akeelah Lindo
-6:Eye-tracker:Abhinav Venkatadri
-7:CAMH EEG:Peter Crowe
-8:TVB:Pranav
-9:OSB:Anh Nguyen
-10:BRIAN:Satvik Singh
-17:Pydra:Yash
-19:NBDT:Alan/Amogh
-20:LORIS:Pranav
-21:OrthogonalLab:Brian
-22:Devoworm:Jiatang 
-23:GlobalBrainCouncil:Nada Ahmed Elmasry
-
-
-
-
+4:GeNN:William Snider (Medium)
+8:TVB:Pranav (Medium) 
+9:OSB:Anh Nguyen (Medium)
+10:BRIAN:Satvik Singh (Medium)
+17:Pydra:Yash (Medium)
+19:NBDT:Amogh (Medium)
+20:LORIS:Pranav (Medium)
+22:Devoworm:Jiahang (Medium)

@@ -5,7 +5,6 @@
 6:Eye-tracker:Somath Sharma (Large)
 6:Eye-tracker:Prakanshul Saxena (Large)
 6:Eye-tracker:Selim (Large)
-7:CAMH EEG:Peter Crowe (Large)
 9:OSB:Anuja Negi (Medium)
 9:OSB:Rahul Sonkar (Medium)
 17:Pydra:Ryan (Medium)

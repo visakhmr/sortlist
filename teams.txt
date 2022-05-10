@@ -10,7 +10,7 @@
 12:HNN-core:Huzi (Large)
 13:Neuroptimus:Martin (Large)
 17:Pydra:Yibei (Large)
-19:NBDT journal:Amogh/Alan (Medium/Large)
+19:NBDT journal:Alan (Large)
 20:LORIS:Satvik Singh (Large)
 21:Orthogonal Lab:Himanshu (Large)
 22:Devoworm:Karan (Medium)

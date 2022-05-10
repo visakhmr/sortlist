@@ -11,7 +11,6 @@
 19:NBDT:Naresh (Medium)
 19:NBDT:Mrunal (Large)
 19:NBDT:Varsita (Large)
-20:LORIS:Sharvani (Medium)
 21:OrthogonalLab:Brian (Large)
 21:OrthogonalLab:Syed Hussain (Large)
 22:Devoworm:Wataru (Medium)
